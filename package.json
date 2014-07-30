@@ -1,0 +1,12 @@
+{
+    "name": "Brackets-Jira",
+    "title": "JiraB",
+    "description": "allows you to view jira tickets in brackets",
+    "homepage": "https://github.com/keleko34/Brackets-Jira",
+    "version": "0.0.4",
+    "author": "keleko (https://github.com/keleko34)",
+    "license": "OPEN",
+    "engines": {
+        "brackets": ">=0.31.0"
+    }
+}

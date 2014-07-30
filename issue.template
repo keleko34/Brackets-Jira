@@ -1,0 +1,49 @@
+<div class='jiraB_Issue' dataType='"+this.key+"'>
+    <img class='jiraB_IssueProjectLogo' />
+    <div class='jiraB_IssueTitle'>
+        <div class='jiraB_IssueProject'>
+            <a class='jiraB_ProjectLink' href='#'>
+            
+            </a>
+            / 
+            <a class='jiraB_KeyLink' href='#'>
+            
+            </a>
+            <img class='jiraB_IssueTypeLogo' width='12px' />
+            <span class='jiraB_IssueType'>
+            
+            </span>
+        </div>
+        <div class='jiraB_IssueSummary'>
+            
+        </div>
+    </div>
+    <div class='jiraB_IssueDescription'>
+    
+    </div>
+    <div class='jiraB_IssuePeopleWrapper'>     
+    <div class='jiraB_IssuePeopleTitle'>
+        Reporter
+    </div>
+    <img class='jiraB_IssueReporterImage' />
+    <div class='jiraB_IssueReporterInfo'>
+        <div class='jiraB_IssueReporterName'>
+        
+        </div>
+        <a class='jiraB_IssueReporterEmail' href='#'>
+        
+        </a>
+    </div>
+    </div>
+    <div class='jiraB_IssueCommentsWrapper'>
+    <div class='jiraB_IssueCommentsTitle'>
+        Comments
+    </div>
+    <div class='jiraB_IssueComments'>
+        <ul  class='jiraB_IssueCommentsList'>
+            
+        </ul>
+    </div>
+    </div>
+</div>
+

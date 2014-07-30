@@ -1,0 +1,6 @@
+{
+    "domain": "jira.yourdomain.com",
+    "port": "",
+    "user": "YourUserName",
+    "password": "YourPassword"
+}
