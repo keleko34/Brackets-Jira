@@ -11,7 +11,7 @@ define(function (require, exports, module) {
         
         dtReq.issueGenerator = require('./issue');
         
-        var dir = 'C:/Users/greg.guidero/AppData/Roaming/Brackets/extensions/user/jira-brackets';
+        var refreshPng = require.toUrl('./img/refresh.png');
         
         dtReq.loadContent = function(data)
         { 
@@ -44,7 +44,7 @@ define(function (require, exports, module) {
                 }
             }
             $('#jiraB_Loader').css('display','none');
-            $('#jiraB_Refresh').attr('src',dir+'/img/refresh.png');
+            $('#jiraB_Refresh').attr('src',refreshPng);
             dtReq.fetchingData = false;
             
             function switchContent(d)
