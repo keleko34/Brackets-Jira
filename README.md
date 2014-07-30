@@ -3,6 +3,6 @@ Brackets-Jira
 
 Allows for getting jira issues within brackets
 
-Initial setup is needed by adding site port and login credentials to the user.json file.
+Initial setup is needed by adding site, port, and login credentials to the user.json file.
 
 *This only performs Jira Gets for all issues relating to you. It does not post information as of yet
