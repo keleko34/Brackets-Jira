@@ -1,0 +1,12 @@
+<div id='jiraB_MainPanel'>
+    <div id='jiraBTopBar'>
+        <span>Jira Viewer</span>
+        <img id='jiraB_Options' title='Settings' height='20px' width='16px' />
+        <img id='jiraB_Refresh' title='Refresh' height='20px' width='16px' />
+        <div id='jiraB_Loader' style='display:none;'>Fetching Data</div>
+        <div id='jiraB_ProjectsWrapper'>
+            <ul id='jiraB_Projects'></ul>
+        </div>
+    </div>
+    <div id='jiraB_IssueWrapper'></div>
+</div>

@@ -1,0 +1,8 @@
+<div id='jiraB_DialogInputWrapper'>
+        <div id='jiraB_DialogUserTitle'>Jira User Log In (*Required)</div>
+        <input id='jiraB_InputUser' type='text' name='user' placeholder='Jira User Name*' />
+        <input id='jiraB_InputPassword' type='password' name='password' placeholder='Jira Password*' />
+        <div id='jiraB_DialogAddressTitle'>Jira Web Address and Port (*Required)</div>
+        <input id='jiraB_InputAddress' type='text' name='domain' placeholder='Jira Web Address*' />
+        <input id='jiraB_InputPort' type='text' name='port' placeholder='Jira Web Port' />
+</div>

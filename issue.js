@@ -2,7 +2,7 @@ define(function (require, exports, module) {
     "use strict";
     var issue = function(issue)
     {
-        this.issueTemplate = $(require('text!issue.template'));
+        this.issueTemplate = $(require('text!templates/issue.template'));
         this.key = issue.key;
         this.summary = issue.fields.summary;
         this.description = issue.fields.description;

@@ -68,6 +68,13 @@
 {
     box-shadow:1px 1px 0px #000 inset;
 }
+#jiraB_Options
+{
+    float:left;
+    margin-top:8px;
+    margin-left:8px;
+    cursor:pointer;
+}
 #jiraB_Refresh
 {
     float:left;
@@ -213,4 +220,25 @@
 .jiraB_IssueReporterEmail:hover
 {
     color:#3b73af;
+}
+#jiraB_DialogInputWrapper
+{
+    margin-bottom:-20px;
+}
+#jiraB_DialogUserTitle
+{
+    margin-bottom:5px;
+}
+#jiraB_InputPassword
+{
+    margin-left:20px;
+}
+#jiraB_DialogAddressTitle
+{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+#jiraB_InputPort
+{
+    margin-left:20px;
 }
